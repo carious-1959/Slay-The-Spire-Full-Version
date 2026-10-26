@@ -249,4 +249,4 @@ This repository serves as the official landing page for Slay the Spire. The soft
 **Get the most recent version of Slay the Spire today!**
 
 ---
-**Last updated:** 2026-10-26 01:02:10 UTC
+**Last updated:** 2026-10-26 07:18:09 UTC
